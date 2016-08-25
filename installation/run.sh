@@ -11,3 +11,4 @@ echo "
  \___/____| |_|   |_|\__,_|\__|_|  \___/|_|  |_| |_| |_|
 "
 echo "All the things!"
+composer install -n
