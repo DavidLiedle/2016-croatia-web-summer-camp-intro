@@ -1,5 +1,7 @@
 /vendor/
 .php~
+bin/doctrine-dbal
+bin/security-checker
 /nbproject/
 /.idea/
 /bin/behat
